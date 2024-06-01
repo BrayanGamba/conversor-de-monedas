@@ -1,0 +1,4 @@
+31-05-2024 21:08:47 --> El valor 50.0 [USD] corresponde al valor final de =>>> 193372.935 [COP]
+31-05-2024 21:15:17 --> El valor 50.0 [USD] corresponde al valor final de =>>> 193372.935 [COP]
+31-05-2024 21:15:17 --> El valor 1000.0 [COP] corresponde al valor final de =>>> 223.6 [ARS]
+31-05-2024 21:19:49 --> El valor 1000.0 [COP] corresponde al valor final de =>>> 0.25857 [USD]
